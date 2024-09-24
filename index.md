@@ -7,7 +7,6 @@ hide: true
 
 # <span style="font-family: 'Georgia', serif; color: #ff6347;">Welcome to My Journey</span>
 
-
 <!-- Navigation buttons section -->
 <div style="display: flex; justify-content: center; gap: 30px; padding: 40px; background-color: #e0f7fa; border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
   <div style="text-align: center;">
