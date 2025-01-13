@@ -71,8 +71,16 @@ console.log("Total:", total);  // Output: Total: 15
     <a href="https://github.com/JacksonH24/jackson_2025/issues/3" target="_blank">
         <button>Issues - Grade </button>
     </a>
-</body>z
+</body>
 </html>
 
 </body>
 </html>
+
+<script src="https://utteranc.es/client.js"
+       repo="JacksonH24/jackson_2025"
+       issue-term="pathname"
+       theme="github-dark"
+       crossorigin="anonymous"
+       async>
+</script>

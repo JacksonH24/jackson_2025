@@ -166,4 +166,18 @@ hide: true
      </a>
   </div>
 
-  
+  <div style="text-align: center;">
+     <a href="MCQ Blog" style="text-decoration: none;">
+        <button style="background-color: #00bcd4; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+          Blog - MCQ
+        </button>
+     </a>
+  </div>
+
+  <div style="text-align: center;">
+     <a href="Student Panel" style="text-decoration: none;">
+        <button style="background-color: #00bcd4; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+         Student Panel Blog
+        </button>
+     </a>
+  </div>
