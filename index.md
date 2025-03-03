@@ -188,3 +188,26 @@ hide: true
         </button>
      </a>
   </div>
+
+   <div style="text-align: center;">
+     <a href="CarComments" style="text-decoration: none;">
+        <button style="background-color: #00bcd4; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+         CarComments
+        </button>
+     </a>
+  </div>
+
+   <div style="text-align: center;">
+     <a href="Deployment" style="text-decoration: none;">
+        <button style="background-color: #00bcd4; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+      Deployment Blog
+        </button>
+     </a>
+  </div>
+    <div style="text-align: center;">
+     <a href="Legendary" style="text-decoration: none;">
+        <button style="background-color: #00bcd4; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+      TOTAL REVIEW TRI 2
+        </button>
+     </a>
+  </div>
