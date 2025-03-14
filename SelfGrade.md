@@ -50,6 +50,7 @@ permalink: SelfGrade
     <li><a href="/jackson_2025/SelfGrade">Self Grade</a></li>
     <li><a href="/jackson_2025/Extra">Extra</a></li>
     <li><a href="/jackson_2025/MCQ">MCQ</a></li>
+    <li><a href="/jackson_2025/PPR">PPR</a></li>
   </ul>
 </nav>
 
@@ -119,7 +120,7 @@ permalink: SelfGrade
             </tr>
             <tr>
                 <td>5 Things</td>
-                <td>4.4/5</td>
+                <td>4.7/5</td>
                 <td>I have thoroughly explained and documented five key achievements from the last 12 weeks, including how I integrated the backend and frontend for the comments system, built the settings page, and developed the home page. I have also tracked issues and burndowns using our Kanban board. However, I still see room for refining certain features, like improving the recommended posts section, so I won’t give myself a perfect score.</td>
             </tr>
             <tr>
@@ -139,12 +140,12 @@ permalink: SelfGrade
             </tr>
             <tr>
                 <td>Impress</td>
-                <td>1/1</td>
+                <td>0.7/1</td>
                 <td>I have taken a deep interest in improving the platform and making meaningful contributions, including helping others debug issues and discussing feature enhancements beyond my own scope.</td>
             </tr>
             <tr>
                 <td><strong>Total Grade</strong></td>
-                <td><strong>9.4/10</strong></td>
+                <td><strong>9.3/10</strong></td>
                 <td>I am very satisfied with my work but recognize areas for continued improvement.</td>
             </tr>
         </table>
