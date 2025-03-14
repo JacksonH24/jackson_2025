@@ -164,8 +164,8 @@ def post_comment():
 
             <h3>📌 Explanation</h3>
             <ul>
-                <li>This function calls `add_comment()`, passing the **current user’s ID, post ID, and comment content.</li>
-                <li>It ensures secure authentication** with `@token_required()`.</li>
+                <li>This function calls `add_comment()`, passing the current user’s ID, post ID, and comment content.</li>
+                <li>It ensures secure authentication with `@token_required()`.</li>
                 <li>The API processes user input and interacts with the database.</li>
             </ul>
         </div>
@@ -183,8 +183,8 @@ def get_comments_for_post(post_id):
 
             <h3>📌 Explanation</h3>
             <ul>
-                <li>This function **retrieves all comments** related to a specific post.</li>
-                <li>A list comprehension** processes multiple comments efficiently.</li>
+                <li>This function retrieves all comments related to a specific post.</li>
+                <li>A list comprehension processes multiple comments efficiently.</li>
             </ul>
         </div>
 
